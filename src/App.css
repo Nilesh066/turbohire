@@ -1,0 +1,18 @@
+Checkbox {
+  border-radius: 20px;
+}
+.container {
+  margin-left: 230px;
+}
+body {
+  background-color: #f3f3f3;
+  margin: 0;
+}
+.checkForm {
+  background-color: white;
+  margin: 0px;
+}
+.close {
+  margin-left: 360px;
+  cursor: pointer;
+}
